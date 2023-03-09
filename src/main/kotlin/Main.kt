@@ -21,7 +21,7 @@ fun text (text1:String,text2:String){
 fun numbers (num1:Int,num2:Int,num3:Int){
     var nums = arrayOf(num1,num2,num3)
     println(nums.average())
-    println(arrayOf(nums.maxOf()))
+//    println(arrayOf(nums.maxOf()))
 //    { x -> (x>x) })
 
 }
